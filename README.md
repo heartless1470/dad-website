@@ -1,8 +1,5 @@
-# dad-website
-duffusflooring website
-this is a website for my father company, if you can see and know anything about web development please feel free to share any improvements thats can be made
-
 # Duffus Flooring Website
+this is a website for my father company, if you can see and know anything about web development please feel free to share any improvements thats can be made
 
 ## Overview
 The Duffus Flooring website is designed to showcase premium flooring solutions, highlighting the company's expertise in hardwood, tile, and luxury vinyl flooring. The site provides information about the services offered, showcases completed projects, and allows potential customers to get in touch for quotes and inquiries.
