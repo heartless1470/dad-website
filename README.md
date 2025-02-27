@@ -16,9 +16,10 @@ dad-website
 │   ├── styles.css          # CSS styles for the website
 │   ├── script.js           # JavaScript for interactive elements
 │   └── images              # Directory containing image assets
-│       ├── hardwood-icon.svg
-│       ├── tile-icon.svg
-│       └── carpet-icon.svg
+│       ├── image 1
+│       ├── image 2
+│       ├── image 3
+│       └── etc if needed
 └── README.md               # Documentation for the project
 ```
 
